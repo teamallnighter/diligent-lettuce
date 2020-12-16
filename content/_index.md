@@ -4,7 +4,7 @@ title: Web Slides
 <!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
 
-## **Hugo-Webslides**
+## **Proposal**
 
 <!--: .text-intro -->Use markdown to write contents and render with [**WebSlides**](https://webslides.tv) to HTML.
 
