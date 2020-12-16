@@ -1,6 +1,6 @@
-+++
-title = "Hugo-Webslides"
-+++
+---
+title: Web Slides
+---
 <!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
 
